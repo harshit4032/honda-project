@@ -1,0 +1,29 @@
+Model,Part,Test Name,Description,Duration (min),Status
+Honda CB Shine,Engine,Engine Performance Test,"Measures torque, power, and fuel efficiency",60,False
+Honda CB Shine,Engine,Cold Start Test,Checks starting capability at low temperatures,15,False
+Honda CB Shine,Engine,Emission Test,"Measures CO, NOx, HC emissions as per BS6 norms",40,False
+Honda CB Shine,Brakes,Brake Performance Test,Measures stopping distance and time from various speeds,20,False
+Honda CB Shine,Brakes,Brake Fade Test,Evaluates reduction in braking efficiency after repeated use,30,False
+Honda CB Shine,Brakes,ABS Function Test,Checks anti-lock braking system operation,25,False
+Honda CB Shine,Electrical,Battery Load Test,Evaluates charging/discharging cycles under load,20,False
+Honda CB Shine,Electrical,Lighting Test,"Checks headlight, indicators, and tail light operation",15,False
+Honda CB Shine,Suspension,Shock Absorber Test,Checks damping and rebound performance,25,False
+Honda CB Shine,Suspension,Fork Alignment Test,Ensures correct fork alignment,20,False
+Honda Activa 6G,Engine,Fuel Efficiency Test,Measures mileage under standard conditions,40,False
+Honda Activa 6G,Engine,Oil Consumption Test,Monitors engine oil consumption over set mileage,300,False
+Honda Activa 6G,Engine,Emission Test,Measures pollutant gases to comply with BS6 norms,30,False
+Honda Activa 6G,Brakes,Brake Pad Wear Test,Evaluates brake pad wear over distance,25,False
+Honda Activa 6G,Brakes,Brake Efficiency Test,Measures stopping distance from 40 km/h,20,False
+Honda Activa 6G,Electrical,Battery Life Test,Checks battery endurance under load,20,False
+Honda Activa 6G,Electrical,Horn & Lighting Test,Verifies horn and lights function properly,15,False
+Honda Activa 6G,Suspension,Rear Shock Test,Measures damping performance and ride comfort,20,False
+Honda Activa 6G,Suspension,Front Fork Test,Checks fork smoothness and alignment,20,False
+Honda CB Unicorn,Engine,Engine Power Test,Measures torque and RPM power curve,60,False
+Honda CB Unicorn,Engine,Engine Leak Test,Checks for oil and fuel leaks under pressure,30,False
+Honda CB Unicorn,Engine,Fuel Injection Test,Ensures proper fuel delivery and mixture,40,False
+Honda CB Unicorn,Brakes,Front & Rear Brake Test,Measures stopping efficiency at different speeds,25,False
+Honda CB Unicorn,Brakes,ABS Calibration Test,Verifies ABS functionality and sensor response,30,False
+Honda CB Unicorn,Electrical,Battery Test,Checks voltage output and charge cycles,20,False
+Honda CB Unicorn,Electrical,Lighting & Indicators Test,"Verifies headlight, tail light, and indicators",15,False
+Honda CB Unicorn,Suspension,Fork Oil Test,Checks for oil leaks and damping consistency,20,False
+Honda CB Unicorn,Suspension,Rear Shock Test,Evaluates ride quality and spring performance,25,False
