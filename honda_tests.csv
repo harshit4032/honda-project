@@ -27,4 +27,3 @@ Honda CB Unicorn,Electrical,Battery Test,Checks voltage output and charge cycles
 Honda CB Unicorn,Electrical,Lighting & Indicators Test,"Verifies headlight, tail light, and indicators",15,False
 Honda CB Unicorn,Suspension,Fork Oil Test,Checks for oil leaks and damping consistency,20,False
 Honda CB Unicorn,Suspension,Rear Shock Test,Evaluates ride quality and spring performance,25,False
-
